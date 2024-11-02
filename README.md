@@ -65,4 +65,4 @@ These are the ranking of cities by sales:
 The data suggests that sales are highest at the end of the year and lower in mid-year, which could reflect typical consumer behavior around holidays and off-peak periods.
 ### Orders By Hours
 
-![image](sales_by_month.png)
+![image](orders_by_hour.png)
