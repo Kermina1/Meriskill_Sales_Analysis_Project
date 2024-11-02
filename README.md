@@ -75,7 +75,9 @@ The data suggests that sales are highest at the end of the year and lower in mid
 
 `4-7 PM:` Orders rise again reaching a second peak at 7 PM with 12.4k this is the highest activity period which could be do to customers shopping after work or in their leisure time.
 
-`8-11:` Orders start to decrease again dropping 6K at 11 PM.
+`8-11 PM:` Orders start to decrease again dropping 6K at 11 PM.
 
 - Peak Hours: The two main peak hours are at 12 PM and 7 PM which is at evening time.
 - Low activity Hours: The lowest activity is in the early morning (0 - 5 AM) and late night (9 PM - 11 PM).
+### Recomendations
+
