@@ -66,3 +66,16 @@ The data suggests that sales are highest at the end of the year and lower in mid
 ### Orders By Hours
 
 ![image](orders_by_hour.png)
+
+`0-5 AM:` Sales start late at midnight with around 3.8K, and then drop till 5 Am, this could be due to inactivity of customers during these hours.
+
+`6 AM -12 PM:` Sales starts to increase from 6 AM with 2.4 K untill reaching the highest peak of orders at 12 PM reaching 12.1K.
+
+`1-3 PM:` After reaching th highest peak at 12 PM, there is a slight decline in sales reaching about 9.8K at 3 PM. This midday drop might be attributed to lunch breaks or a pause in shopping activities.
+
+`4-7 PM:` Orders rise again reaching a second peak at 7 PM with 12.4k this is the highest activity period which could be do to customers shopping after work or in their leisure time.
+
+`8-11:` Orders start to decrease again dropping 6K at 11 PM.
+
+- Peak Hours: The two main peak hours are at 12 PM and 7 PM which is at evening time.
+- Low activity Hours: The lowest activity is in the early morning (0 - 5 AM) and late night (9 PM - 11 PM).
