@@ -23,6 +23,7 @@ These are the 5 top selling products:
 3. ThinkPad Laptop.
 4. Google Phone.
 5. 27in 4K Gaming Monitor.
+- The top products by sales are high-value electronics such as the MacBook Pro Laptop, iPhone, ThinkPad Laptop, and Google Phone. These products likely have high unit prices, contributing significantly to overall sales.
 
 ### Top 5 Products by quantity ordered
 
@@ -34,7 +35,7 @@ These are the 5 top Ordered Products by quantity:
 3. USB-C Chargine Cable.
 4. Lightning Charging Cable.
 5. Wired Headphones.
-
+- he most ordered items by quantity are smaller, lower-cost items like batteries, charging cables, and wired headphones. These items are frequently purchased in high volumes, but they don’t generate as much revenue individually as higher-value products.
 ### Sales by City
 
 ![image](sales_by_city.png)
@@ -49,7 +50,7 @@ These are the ranking of cities by sales:
 7. Seatlle.
 8. Portland.
 9. Austin.
-
+-  Major areas like San Francisco, Los Angeles, and New York City lead in sales, likely due to higher populations and purchasing power in these cities, while mid-sized cities like Dallas, Seattle, and Portland rank lower.
 ### Sales by Month
 
 ![image](sales_by_month.png)
@@ -79,5 +80,19 @@ The data suggests that sales are highest at the end of the year and lower in mid
 
 - Peak Hours: The two main peak hours are at 12 PM and 7 PM which is at evening time.
 - Low activity Hours: The lowest activity is in the early morning (0 - 5 AM) and late night (9 PM - 11 PM).
-### Recomendations
+### Analysis and Results Summary
 
+| Analysis Area           | Key Insights                                                                                                        | Highlights                                                                                                       |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| **Top 5 Products by Sales** | - High-value electronics such as MacBook Pro, iPhone, ThinkPad Laptop, and Google Phone lead in sales.           | - These items have high unit prices, significantly contributing to overall revenue.                              |
+| **Top 5 Products by Quantity Ordered** | - Most ordered items are low-cost, high-volume products like AAA/AA batteries, charging cables, and headphones. | - Frequent purchases in high volumes, but lower revenue per unit compared to high-value electronics.             |
+| **Sales by City**       | - Top cities by sales: San Francisco, Los Angeles, New York City.                                                   | - High sales in major cities with large populations and purchasing power; mid-sized cities like Dallas rank lower. |
+| **Sales by Month**      | - Q1 (Jan - Apr): Steady growth; Q2-Q3 (May - Sep): Mid-year dip; Q4 (Oct - Dec): Strong increase, peak in Dec.     | - Year-end peak suggests seasonal demand likely due to holiday shopping.                                         |
+| **Orders by Hour**      | - Early morning (0 - 5 AM) and late night (9 PM - 11 PM) show lowest activity.                                      | - Peak activity at 12 PM and 7 PM, likely due to midday and post-work shopping habits.                          |
+
+### Recomendations
+- Since high-value electronics are driving most of our sales, while smaller, low-cost items are ordered often, we could create bundle offers that pair chargers and cables with electronics. This would encourage customers to add more to their carts and help increase overall sales.
+- For the smaller items that sell in high quantities, we could offer them in bundles. This way, customers might be inclined to buy multiple items at once, which would boost sales volume.
+- To boost our numbers in high-performing cities, we could focus more of our promotional efforts there. For cities where sales are lower, it might be worth diving deeper into the data to see what’s driving those results and find opportunities for growth.
+### Conclusion 
+Through our analysis, we gained a clear understanding of the sales data, identifying essential metrics like top-selling products, sales by city, the most ordered products by quantity, and peak activity hours and months. These insights have guided us in the decision-making process and allowed us to make data-driven recommendations.
